@@ -1,4 +1,4 @@
-# Deeplearning.ai - Practical Multi AI Agents and Advanced Use Cases with crewAI
+# Deeplearning.ai - Course - Practical Multi AI Agents and Advanced Use Cases with crewAI
 - Course Online: https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/
 - Git repo: [deeplearning.ai.crewai.practicalmultiagents](https://github.com/oliverbarreto/deeplearning.ai.crewai.practicalmultiagents.git)
 - Jupiter Notebooks of the course
